@@ -10,9 +10,10 @@ img {
 nav li {
     list-style: none;
     padding: 15px;
-    float: left;
-    font-family: "Oswald";
+    float: left;    
+    font-family: 'Roboto', sans-serif;
     padding-bottom: 5px;
+    text-decoration: none;
 }
 
 header {
@@ -22,7 +23,7 @@ header {
     padding: 0px 20px;
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    align-items: center;    
 }
 
 #content {
